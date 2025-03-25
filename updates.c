@@ -1,7 +1,2 @@
-#include <stdio.h>
-#include <stdlib.h>
+snksnakfjnasf
 
-int main(){
-printf("Updates are pushed");
-return 0;
-}
